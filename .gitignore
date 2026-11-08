@@ -1,0 +1,16 @@
+# Build output, archives and exported packages
+build/
+DerivedData/
+*.xcarchive
+*.pkg
+
+# Personal Xcode settings
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Launch material and drafts that live outside the repository
+Site/
+Claude outputs/
