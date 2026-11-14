@@ -14,3 +14,7 @@ xcuserdata/
 # Launch material and drafts that live outside the repository
 Site/
 Claude outputs/
+
+# Configuração local do fluxo com o Claude (cita caminhos do Obsidian do Jayme)
+AGENTS.md
+CLAUDE.md
